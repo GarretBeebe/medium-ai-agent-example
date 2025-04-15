@@ -1,7 +1,3 @@
-Setup
-python3 -m venv agent_env 
-source agent_env/bin/activate
-
 # AI Agent Example Project
   This repository contains a simple AI agent workflow stringing together various elements that utilize the OpenAI API. This application classifies, summararizes, and extracts key values from a provided text string. The original project can be found here: https://medium.com/data-science-collective/the-complete-guide-to-building-your-first-ai-agent-its-easier-than-you-think-c87f376c84b2
 
